@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\projects\\Space Invaders\\",
+  "WorkspaceRootPath": "C:\\Users\\crisg\\Space Invaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SHOOTING.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PROJECTILE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MOVEMENT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\projects\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SCORE_MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,38 +34,38 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MOVEMENT.cs",
-              "DocumentMoniker": "F:\\projects\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MOVEMENT.cs",
-              "ToolTip": "F:\\projects\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\MOVEMENT.cs",
               "RelativeToolTip": "Assets\\Scripts\\MOVEMENT.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T15:05:44.444Z"
+              "WhenOpened": "2026-03-04T15:05:44.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ENEMIES.cs",
-              "DocumentMoniker": "F:\\projects\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ENEMIES.cs",
-              "ToolTip": "F:\\projects\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\ENEMIES.cs",
               "RelativeToolTip": "Assets\\Scripts\\ENEMIES.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAIwIYAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAIwIYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T14:48:33.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T14:48:33.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PROJECTILE.cs",
-              "DocumentMoniker": "F:\\projects\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PROJECTILE.cs",
-              "ToolTip": "F:\\projects\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\PROJECTILE.cs",
               "RelativeToolTip": "Assets\\Scripts\\PROJECTILE.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T14:47:29.37Z",
               "EditorCaption": ""
@@ -74,22 +74,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SHOOTING.cs",
-              "DocumentMoniker": "F:\\projects\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SHOOTING.cs",
-              "ToolTip": "F:\\projects\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SHOOTING.cs",
               "RelativeToolTip": "Assets\\Scripts\\SHOOTING.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA0AAAAAAAAAA==",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAFoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T14:46:15.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "SCORE_MANAGER.cs",
-              "DocumentMoniker": "F:\\projects\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SCORE_MANAGER.cs",
-              "ToolTip": "F:\\projects\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
               "RelativeToolTip": "Assets\\Scripts\\SCORE_MANAGER.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
