@@ -704,7 +704,6 @@ GameObject:
   - component: {fileID: 6862859786354647031}
   - component: {fileID: 9208476209313280532}
   - component: {fileID: 7190822581439704509}
-  - component: {fileID: 3969567240058689908}
   - component: {fileID: 6474328473855049674}
   - component: {fileID: 2955571543249796853}
   m_Layer: 0
@@ -843,19 +842,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &3969567240058689908
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5137652702073614160}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbe9f95b48754d74b85a858ef44e7644, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::MOVEMENT
-  speed: 5
 --- !u!114 &6474328473855049674
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -869,7 +855,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::shooting
   spawnPoint: {fileID: 1346102430283403639}
-  projectilePrefab: {fileID: 4808219450253410651, guid: 330167aa69ed874488690147a2fe2c96, type: 3}
+  projectilePrefab: {fileID: 5718542046238424679, guid: 1a12c14223f24044fad0f8eb3e67226e, type: 3}
   moveSpeed: 5
   projectileSpeed: 8
   health: 100
@@ -925,7 +911,7 @@ Transform:
   m_GameObject: {fileID: 5270643931323700370}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.03, y: 0.52, z: 0}
+  m_LocalPosition: {x: -0.029999992, y: 0.637, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

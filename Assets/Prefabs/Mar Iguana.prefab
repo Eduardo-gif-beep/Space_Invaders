@@ -525,7 +525,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Projectile
   damage: 50
-  owner: 1
+  owner: 0
 --- !u!50 &8898050117913112535
 Rigidbody2D:
   serializedVersion: 5

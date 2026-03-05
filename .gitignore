@@ -6,6 +6,11 @@
 [Ll]ogs/
 UserSettings/
 
+MemoryCaptures/
+
+.DS_Store
+Thumbs.db
+
 *.csproj
 *.unityproj
 *.sln
@@ -15,6 +20,11 @@ UserSettings/
 *.userprefs
 *.pidb
 *.booproj
+*.svd
 
-.DS_Store
-Thumbs.db
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+sysinfo.txt
