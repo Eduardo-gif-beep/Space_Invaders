@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\Space_Invaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|f:\\projects\\space_invaders\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|F:\\projects\\Space_Invaders\\assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROJECTILE.cs",
+              "DocumentMoniker": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PROJECTILE.cs",
+              "ToolTip": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PROJECTILE.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:56:43.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SHOOTING.cs",
+              "DocumentMoniker": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SHOOTING.cs",
+              "ToolTip": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SHOOTING.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T03:55:00.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
