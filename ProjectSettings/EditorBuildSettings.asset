@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene 3.unity
     guid: 7e1902390e3fe8d4ab7d86850374d37a
+  - enabled: 1
+    path: Assets/Scenes/SampleSceneBall.unity
+    guid: 8ddabd41271c2654f93f86a4032b03dd
+  - enabled: 1
+    path: Assets/Scenes/Space_Invaders 2.unity
+    guid: 98fa5bcd0827ffb43bb6a63ec5082329
+  - enabled: 1
+    path: Assets/Scenes/Space_Invaders 3.unity
+    guid: 7b3f5989aeeb8c546b2704e75f8662eb
+  - enabled: 1
+    path: Assets/Scenes/Space_Invaders 4.unity
+    guid: b7bbe35ec0514114fbb6c46ee34d5b3e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

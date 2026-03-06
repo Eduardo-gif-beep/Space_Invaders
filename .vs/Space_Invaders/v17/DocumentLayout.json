@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\projects\\Space_Invaders\\",
+  "WorkspaceRootPath": "C:\\Users\\crisg\\Space_Invaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|f:\\projects\\space_invaders\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SCORE_MANAGER.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|f:\\projects\\space_invaders\\assets\\scripts\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ENEMIES.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|F:\\projects\\Space_Invaders\\assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CC497B7-8C59-BA23-DA44-3BE24807F46E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SHOOTING.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PROJECTILE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ENEMIES.cs",
-              "DocumentMoniker": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\ENEMIES.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ENEMIES.cs",
-              "ToolTip": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\ENEMIES.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ENEMIES.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SCORE_MANAGER.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SCORE_MANAGER.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SCORE_MANAGER.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SCORE_MANAGER.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T04:27:27.11Z",
+              "WhenOpened": "2026-03-06T18:05:17.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PROJECTILE.cs",
-              "DocumentMoniker": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PROJECTILE.cs",
-              "ToolTip": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\PROJECTILE.cs",
               "RelativeToolTip": "Assets\\Scripts\\PROJECTILE.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwCAAAAApAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T03:56:43.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T17:49:27.561Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SHOOTING.cs",
-              "DocumentMoniker": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SHOOTING.cs",
-              "ToolTip": "F:\\projects\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\SHOOTING.cs",
               "RelativeToolTip": "Assets\\Scripts\\SHOOTING.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwFoAAAABAAAAAAAAAA==",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAIwHoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T03:55:00.39Z"
+              "WhenOpened": "2026-03-06T15:50:02.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ENEMIES.cs",
+              "DocumentMoniker": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\ENEMIES.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ENEMIES.cs",
+              "ToolTip": "C:\\Users\\crisg\\Space_Invaders\\Assets\\Scripts\\ENEMIES.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ENEMIES.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T15:12:43.266Z"
             }
           ]
         }

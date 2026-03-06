@@ -488,7 +488,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.01, y: -3.75, z: 0}
-  m_LocalScale: {x: 0.77831966, y: 0.8953268, z: 1}
+  m_LocalScale: {x: 0.79204845, y: 1.0891542, z: 1.1697}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8265468612245048313}
@@ -552,7 +552,7 @@ SpriteRenderer:
   m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 0.37308437, g: 0.14509805, b: 0.8117647, a: 1}
+  m_Color: {r: 0.44313726, g: 0.30588236, b: 0.9490196, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -623,7 +623,8 @@ MonoBehaviour:
   projectilePrefab: {fileID: 5718542046238424679, guid: 1a12c14223f24044fad0f8eb3e67226e, type: 3}
   moveSpeed: 5
   projectileSpeed: 8
-  health: 100
+  health: 200
+  shootSound: {fileID: 8300000, guid: af9fa18f78af03849b3826ceee33e259, type: 3}
 --- !u!50 &2955571543249796853
 Rigidbody2D:
   serializedVersion: 5
@@ -676,7 +677,7 @@ Transform:
   m_GameObject: {fileID: 5270643931323700370}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.029999992, y: 0.637, z: 0}
+  m_LocalPosition: {x: 0.032, y: 0.732, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -890,7 +891,7 @@ Transform:
   m_GameObject: {fileID: 5854930244162610157}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 0.27, z: 0}
+  m_LocalPosition: {x: -0.02, y: 0.26, z: 0}
   m_LocalScale: {x: 1.051, y: 0.52661395, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
