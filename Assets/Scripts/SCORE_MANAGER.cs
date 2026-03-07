@@ -49,6 +49,7 @@ public class SCORE_MANAGER : MonoBehaviour
     {
         score = 0;
         deathsCounter = 0;
+        level = 1;
         UpdateUI();
     }
 
@@ -70,7 +71,6 @@ public class SCORE_MANAGER : MonoBehaviour
         else
         {
             Debug.Log("¡Felicidades, terminaste todos los niveles!");
-            SceneManager.LoadScene("WinScene");
         }
     }
 }

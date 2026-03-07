@@ -2938,10 +2938,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Toallin
       objectReference: {fileID: 0}
-    - target: {fileID: 6474328473855049674, guid: b5d76393dae10b945b091d7e5322c49e, type: 3}
-      propertyPath: health
-      value: 200
-      objectReference: {fileID: 0}
     - target: {fileID: 6862859786354647031, guid: b5d76393dae10b945b091d7e5322c49e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.35556942
@@ -2993,10 +2989,6 @@ PrefabInstance:
     - target: {fileID: 7352397078168775579, guid: b5d76393dae10b945b091d7e5322c49e, type: 3}
       propertyPath: m_Color.r
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7578034729929733502, guid: b5d76393dae10b945b091d7e5322c49e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 7578034729929733502, guid: b5d76393dae10b945b091d7e5322c49e, type: 3}
       propertyPath: m_LocalPosition.y

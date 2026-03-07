@@ -492,7 +492,7 @@ MonoBehaviour:
   spawnPoint: {fileID: 5584806652853783911}
   projectilePrefab: {fileID: 4808219450253410651, guid: 330167aa69ed874488690147a2fe2c96, type: 3}
   projectileSpeed: 5
-  fireRate: 2
+  fireRate: 4
   patrolDistance: 3
   moveSpeed: 1
   damage: 50
