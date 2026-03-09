@@ -12,7 +12,7 @@ public class shooting : MonoBehaviour
     [SerializeField] int health = 100;
 
     [Header("Audio")]
-    [SerializeField] private AudioClip shootSound; // Aquí arrastras tu MP3
+    [SerializeField] private AudioClip shootSound;
     private AudioSource audioSource;
 
     Rigidbody2D physic;
@@ -22,14 +22,12 @@ public class shooting : MonoBehaviour
     {
         physic = GetComponent<Rigidbody2D>();
 
-        // Obtenemos el AudioSource o lo creamos si no existe
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
         {
             audioSource = gameObject.AddComponent<AudioSource>();
         }
 
-        // Configuración básica para que el sonido no sea 3D (opcional)
         audioSource.playOnAwake = false;
     }
 
@@ -81,14 +79,11 @@ public class shooting : MonoBehaviour
             return;
         }
 
-        // --- LÓGICA DE SONIDO ---
         if (shootSound != null && audioSource != null)
         {
-            // PlayOneShot permite disparar rápido sin cortar el sonido anterior
             audioSource.PlayOneShot(shootSound);
         }
 
-        // Instanciar proyectil
         GameObject projectile = Instantiate(projectilePrefab, spawnPoint.position, spawnPoint.rotation);
 
         Rigidbody2D projectileRb = projectile.GetComponent<Rigidbody2D>();

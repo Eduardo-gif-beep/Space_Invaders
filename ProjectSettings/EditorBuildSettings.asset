@@ -29,6 +29,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Space_Invaders 4.unity
     guid: b7bbe35ec0514114fbb6c46ee34d5b3e
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 07e9ae784501cb94bbbe780d80dee441
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
