@@ -1,6 +1,6 @@
 using UnityEngine;
 using TMPro;
-using UnityEngine.SceneManagement; // Necesario para cambiar de escena
+using UnityEngine.SceneManagement; 
 
 public class SCORE_MANAGERBALL : MonoBehaviour
 {
@@ -48,7 +48,7 @@ public class SCORE_MANAGERBALL : MonoBehaviour
                 Debug.Log("Tiempo agotado");
                 timeRemaining = 0;
                 timerIsRunning = false;
-
+                timeRemaining = 180f;
                 UpdateUI2();
                 SceneManager.LoadScene("Menu");
             }
@@ -73,7 +73,6 @@ public class SCORE_MANAGERBALL : MonoBehaviour
     public void ResetScore()
     {
         score = 0;
-        timeRemaining = 180f;
         timerIsRunning = true;
         UpdateUI();
     }

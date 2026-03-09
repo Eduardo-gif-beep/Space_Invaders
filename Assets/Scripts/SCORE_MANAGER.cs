@@ -9,7 +9,7 @@ public class SCORE_MANAGER : MonoBehaviour
     [Header("UI References")]
     [SerializeField] TextMeshProUGUI scoreText;
     [SerializeField] TextMeshProUGUI healthText;
-    [SerializeField] TextMeshProUGUI timerText; 
+    [SerializeField] TextMeshProUGUI timerText;
 
     [Header("Settings")]
     [SerializeField] string prefix = "Points: ";
@@ -50,6 +50,7 @@ public class SCORE_MANAGER : MonoBehaviour
                 timeRemaining = 0;
                 timerIsRunning = false;
                 SceneManager.LoadScene("Menu");
+                timeRemaining = 180f;
             }
         }
     }
@@ -86,7 +87,6 @@ public class SCORE_MANAGER : MonoBehaviour
         score = 0;
         deathsCounter = 0;
         level = 1;
-        timeRemaining = 180f; 
         UpdateUI();
     }
 
@@ -108,7 +108,7 @@ public class SCORE_MANAGER : MonoBehaviour
         else
         {
             Debug.Log("¡Felicidades, terminaste todos los niveles!");
-            timerIsRunning = false; 
+            timerIsRunning = false;
         }
     }
 }
