@@ -45,11 +45,13 @@ public class SCORE_MANAGERBALL : MonoBehaviour
             }
             else
             {
+                GameObject menuCanvas = GameObject.Find("Score");
                 Debug.Log("Tiempo agotado");
                 timeRemaining = 0;
                 timerIsRunning = false;
                 timeRemaining = 180f;
-                UpdateUI2();
+                UpdateUI();
+                Destroy(menuCanvas);
                 SceneManager.LoadScene("Menu");
             }
         }

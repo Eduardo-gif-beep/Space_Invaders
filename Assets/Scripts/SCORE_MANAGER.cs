@@ -46,9 +46,11 @@ public class SCORE_MANAGER : MonoBehaviour
             }
             else
             {
+                GameObject menuCanvas = GameObject.Find("score");
                 Debug.Log("¡Tiempo agotado!");
                 timeRemaining = 0;
                 timerIsRunning = false;
+                Destroy(menuCanvas);
                 SceneManager.LoadScene("Menu");
                 timeRemaining = 180f;
             }
