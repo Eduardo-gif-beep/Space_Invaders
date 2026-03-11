@@ -107,7 +107,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileForMenu
   targetTag: Mari
-  lifetime: 5
+  lifetime: 2
 --- !u!58 &-6375297341182078781
 CircleCollider2D:
   m_ObjectHideFlags: 0

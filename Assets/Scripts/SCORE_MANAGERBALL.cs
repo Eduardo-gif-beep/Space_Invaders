@@ -70,6 +70,20 @@ public class SCORE_MANAGERBALL : MonoBehaviour
     {
         score = score + points;
         UpdateUI();
+
+        if (score >= 10000)
+        {
+            Debug.Log("Puntuación máxima alcanzada. Limpiando y volviendo al menú.");
+            GameObject menuCanvas = GameObject.Find("Score");
+            if (menuCanvas != null)
+            {
+                Destroy(menuCanvas);
+            }
+            timerIsRunning = false;
+            timeRemaining = 180f; 
+            UpdateUI2();
+            SceneManager.LoadScene("Menu");
+        }
     }
 
     public void ResetScore()

@@ -8291,6 +8291,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.y
       value: 1.1
       objectReference: {fileID: 0}
+    - target: {fileID: 6815631790175982975, guid: 016d39f208054ad4ea42e7c743d101c2, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6815631790175982975, guid: 016d39f208054ad4ea42e7c743d101c2, type: 3}
+      propertyPath: m_Constraints
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6815631790175982975, guid: 016d39f208054ad4ea42e7c743d101c2, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 9217407046127422596, guid: 016d39f208054ad4ea42e7c743d101c2, type: 3}
       propertyPath: m_Name
       value: Player
